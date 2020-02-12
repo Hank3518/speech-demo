@@ -1,0 +1,3 @@
+呼叫中心音频文件转写Python Demo
+1、通过creat_task_cc.py创建识别任务
+2、通过query_result_cc.py查询识别结果
